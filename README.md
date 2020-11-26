@@ -7,6 +7,7 @@ Client package contains the below files
 Client.java
 FeatureController.java
 FeatureService.java
+FeatureRepository.java
 
 Config Package COntains the below files
 JpaConfig.java
@@ -15,5 +16,5 @@ WebMvcConfig.java
 
 The JSP folder contain featureRequest.jsp page.
 
-The project ontains pom.xml , persistance.xml,web.xml.
+The project contains pom.xml , persistance.xml,web.xml.
 
